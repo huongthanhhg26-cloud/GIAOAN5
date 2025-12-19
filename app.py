@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Nguyễn Văn Hướng - Trường PTDTBTTH Thắng Mố- 0976426127</p>
+    <p>Tác giả: Nguyễn Văn Hướng - Trường PTDTBTTH Thắng Mố- SĐT: 0976426127</p>
 </div>
 """, unsafe_allow_html=True)
 
